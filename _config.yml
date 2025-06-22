@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Welcome to Nicole's!
 
 # Your name to show in the footer
-author: Some Person
+author: Nicole (obviously)
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: Unfinished project but as soon as it is done I will update this! I don't even know what to put here-
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,14 +50,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: please do not try to email me 
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: no facebook
+  github: nicolekatz13@github.io
+  twitter: do not have 
+  patreon: NO
+  youtube: cringe, will not share
+  whatsapp: NO 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: prepare for an extremey underwheming experience
 
 ###########################
 # --- General options --- #
@@ -99,10 +99,6 @@ share-links-active:
   linkedin: true
   vk: false
   reddit: false
-
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -136,10 +132,10 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+page-col: "#678672"
+text-col: "#536547"
+link-col: "#536547"
+hover-col: "#5c7749"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
