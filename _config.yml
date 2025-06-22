@@ -20,11 +20,10 @@ author: Nicole (obviously)
 ###############################################
 
 navbar-links:
-  About Me: Unfinished project but as soon as it is done I will update this! I don't even know what to put here-
+  About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
